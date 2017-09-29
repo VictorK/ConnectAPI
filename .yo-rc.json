@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "c:\\temp\\v1.json",
+    "name": "Galaxy Connect™",
+    "repo": "VictorK/ConnectAPI",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
